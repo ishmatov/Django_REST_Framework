@@ -1,3 +1,6 @@
 /service/db.sqlite3
 /service/service/secret_key.py
 secret_key.py
+**/__pycache__/
+/venv/
+service/service/secret_key.py
