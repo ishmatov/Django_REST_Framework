@@ -25,3 +25,10 @@ class User(models.Model):
         verbose_name_plural = 'Пользователи'
         verbose_name = 'Пользователь'
         ordering = ['-published']
+
+    # def __init__(self, username, first_name, last_name, email, birthday_year):
+    #     self.username = username
+    #     self.first_name = first_name
+    #     self.last_name = last_name
+    #     self.email = email
+    #     self.birthday_year = birthday_year
