@@ -3,4 +3,5 @@
 secret_key.py
 **/__pycache__/
 /venv/
+.idea/*
 service/service/secret_key.py
